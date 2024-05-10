@@ -8,8 +8,9 @@
     This is me <b>storgaroDev</b>, an IT enthusiast and <b>Backend Developer</b>, always in continuous
 learning to improve my skills
       <b>to continue turning ideas to real
-life products</b>
+life products.</b>
   <br>
+    <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
