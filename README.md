@@ -43,6 +43,7 @@ My journey as a full stack web developer has led me to find a passion for backen
 
 
 ## Projects
+🔭 I have more projects but they are private for reasons of confidentiality with the client
 - Contacts App
 - Equinox
 - ToDo App
@@ -52,10 +53,10 @@ My journey as a full stack web developer has led me to find a passion for backen
   <a href="www.linkedin.com/in/santiago-sierralta">
    <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:santinieto440@gmail.com">
+  <a href="mailto:storgaro@gmail.com">
     <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-   <a href="https://github.com/wh0arew3">
+   <a href="https://github.com/storgaroDev">
     <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
