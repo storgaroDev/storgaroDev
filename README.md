@@ -1,58 +1,62 @@
-# Hello, I'm Santiago 👋
-<a href="https://www.linkedin.com/in/santiago-sierralta-52787b279/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Santiago</h1>
+<p align="center">
+  <a href="https://github.com/storgaroDev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
-
-I am an IT enthusiast with a deep interest in technology and a dedication to solving complex problems.
+<p align="center">
+  <em>
+    This is me <b>storgaroDev</b>, an IT enthusiast and <b>Backend Developer</b>, always in continuous
+learning to improve my skills
+      <b>to continue turning ideas to real
+life products</b>
+  <br>
+  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+</p>
 
 ## Objective
 
-My journey as a web developer has led me to find a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or as a Pentester.
+My journey as a full stack web developer has led me to find a passion for backend, and I am now fully dedicated to this field, I have worked for companies in person and remotely, and today I dedicate myself to working freelance
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-4D4D4D?&style=for-the-badge&logo=Netcat" />
-    <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Tcpdump-4D4D4D?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Traceroute-4D4D4D?&style=for-the-badge" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kaspersky_Endpoint_Security-00A4EF?&style=for-the-badge&logo=Kaspersky" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<details open="">
+<summary>
+ 📔 GitHub Stats:
+</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/storgaroDev">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=storgaroDev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+<br>
+    <br>
+     <a href="https://github.com/storgaroDev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=storgaroDev&theme=radical" alt="storgaroDev GitHub Contribution"/>
+  </a>
+</p>
+</details>
 
-### SOC
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Shuffle-005571?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-TheHive-005571?&style=for-the-badge" />
-</div>
+---
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Cisco%20CyberOps-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
 - SIEM configuration and management
+
+## Connect with me🤝:
+  </hr>
+  <a href="www.linkedin.com/in/santiago-sierralta">
+   <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:santinieto440@gmail.com">
+    <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+   <a href="https://github.com/wh0arew3">
+    <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  <br>
