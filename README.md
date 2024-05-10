@@ -43,9 +43,9 @@ My journey as a full stack web developer has led me to find a passion for backen
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- SIEM configuration and management
+- Contacts App
+- Equinox
+- ToDo App
 
 ## Connect with me🤝:
   </hr>
