@@ -21,7 +21,7 @@ My journey as a full stack web developer has led me to find a passion for backen
 <br>
 <div id="user-content-toc">
   
-## 🧑‍💻Frequently Used Tech🧑‍💻
+## 🧑‍💻Frequently Used Tech
 
 </div>
 <!--tech stack icons-->
