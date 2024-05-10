@@ -17,15 +17,21 @@ life products</b>
 
 My journey as a full stack web developer has led me to find a passion for backend, and I am now fully dedicated to this field, I have worked for companies in person and remotely, and today I dedicate myself to working freelance
 
-## Skills
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Nestjs](https://img.shields.io/badge/Nestjs-FFFFFF?style=for-the-badge&labelColor=white&logo=nestjs&logoColor=FF0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
+## 📔 GitHub Stats:
+
 <br>
 <p align="center">
   <a href="https://github.com/storgaroDev">
@@ -37,16 +43,16 @@ My journey as a full stack web developer has led me to find a passion for backen
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=storgaroDev&theme=radical" alt="storgaroDev GitHub Contribution"/>
   </a>
 </p>
-</details>
 
----
 
 
 ## Projects
-🔭 I have more projects but they are private for reasons of confidentiality with the client
+🔭 I have more projects but they are private for reasons of confidentiality with the clients.
 - Contacts App
 - Equinox
 - ToDo App
+
+
 
 ## Connect with me🤝:
   </hr>
@@ -54,10 +60,13 @@ My journey as a full stack web developer has led me to find a passion for backen
    <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:storgaro@gmail.com">
-    <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="storgaroDev | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
    <a href="https://github.com/storgaroDev">
-    <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="storgaroDev| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://portfoliostorgaro.netlify.app">
+    <img align="left" alt="storgaroDev| Web" width="26px" src="https://www.vectorlogo.zone/logos/google/google-tile.svg" />
   </a>
   <br>
   <br>
